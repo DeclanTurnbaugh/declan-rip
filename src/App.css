@@ -5,3 +5,10 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+  background-color: #fff;
+  color: #333;
+}
